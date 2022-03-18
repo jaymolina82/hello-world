@@ -28,8 +28,8 @@ jobs:
         with:
           #aws_access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           #aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          aws_access_key_id: AKIA2OSJJOB6TR5S2GOK
-          aws_secret_access_key: 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
+          aws_access_key_id: AKIA2OSJJOB6VLNVXAUH
+          aws_secret_access_key: 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
           aws_region: eu-west-1
           function_name: repoFunction
           zip_file: bundle.zip
